@@ -1,0 +1,11 @@
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.csprojAssemblyReference.cache
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.AssemblyInfoInputs.cache
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.AssemblyInfo.cs
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\bin\Debug\netcoreapp2.1\String Calculator.deps.json
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\bin\Debug\netcoreapp2.1\String Calculator.runtimeconfig.json
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\bin\Debug\netcoreapp2.1\String Calculator.runtimeconfig.dev.json
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\bin\Debug\netcoreapp2.1\String Calculator.dll
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\bin\Debug\netcoreapp2.1\String Calculator.pdb
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.dll
+C:\Users\Lincoln\Google Drive (lmackay@codestack.co)\Codestack\Lab 3 2.0\String Calculator\String Calculator\obj\Debug\netcoreapp2.1\String Calculator.pdb
