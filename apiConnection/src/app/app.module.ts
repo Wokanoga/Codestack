@@ -1,13 +1,24 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+
+import { TitleComponent } from './views/title/title.component';
+import { HeaderComponent } from './shared/components/header/header.component';
+import { ButtonComponent } from './shared/components/button/button.component';
+import { AddItemComponent } from './shared/components/add-item/add-item.component';
+import { RemoveItemComponent } from './shared/components/remove-item/remove-item.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TitleComponent,
+    HeaderComponent,
+    ButtonComponent,
+    AddItemComponent,
+    RemoveItemComponent
   ],
   imports: [
     BrowserModule,
