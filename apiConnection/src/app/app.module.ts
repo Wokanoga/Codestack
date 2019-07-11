@@ -10,6 +10,8 @@ import { HeaderComponent } from './shared/components/header/header.component';
 import { ButtonComponent } from './shared/components/button/button.component';
 import { AddItemComponent } from './shared/components/add-item/add-item.component';
 import { RemoveItemComponent } from './shared/components/remove-item/remove-item.component';
+import { HttpClientModule } from '@angular/common/http';
+import { ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,9 @@ import { RemoveItemComponent } from './shared/components/remove-item/remove-item
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgbModule
+    NgbModule,
+    HttpClientModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
