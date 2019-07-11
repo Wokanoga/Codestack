@@ -1,1 +1,1 @@
-# Homework, Challenges, Labs and Projects for Codestack Academy
+# Homework, Challenges, Labs and Projects from Codestack Academy
