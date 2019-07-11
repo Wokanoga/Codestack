@@ -65,7 +65,7 @@ namespace String_Calculator
                 //  So the input string goes into an if statement to check for the one it has.
                 catch
                 {
-                    if (input == "clear")
+                    if (input === "clear")
                     {
                         // Console.Clear(); gets rid of the intro so it has to written again.
                         System.Console.Clear();
@@ -73,7 +73,7 @@ namespace String_Calculator
                         System.Console.WriteLine("Enter 'clear' to clear. Enter 'exit' to exit.");
                         System.Console.WriteLine("");
                     }
-                    else if (input == "exit")
+                    else if (input === "exit")
                     {
                         System.Environment.Exit(1);
                     }
