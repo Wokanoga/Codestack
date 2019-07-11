@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/code/Codestack/String Calculator/String Calculator/String Calculator.csproj",
+      "projectUniqueName": "/Users/code/Codestack/string_calculator/string_calculator/String Calculator.csproj",
       "projectName": "String Calculator",
-      "projectPath": "/Users/code/Codestack/String Calculator/String Calculator/String Calculator.csproj",
+      "projectPath": "/Users/code/Codestack/string_calculator/string_calculator/String Calculator.csproj",
       "packagesPath": "/Users/code/.nuget/packages/",
-      "outputPath": "/Users/code/Codestack/String Calculator/String Calculator/obj/",
+      "outputPath": "/Users/code/Codestack/string_calculator/string_calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
