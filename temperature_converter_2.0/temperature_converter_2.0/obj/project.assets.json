@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/code/repos/Codestack/string_calculator/string_calculator/String Calculator.csproj",
-      "projectName": "String Calculator",
-      "projectPath": "/Users/code/repos/Codestack/string_calculator/string_calculator/String Calculator.csproj",
+      "projectUniqueName": "/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/Temperature converter 2.0.csproj",
+      "projectName": "Temperature converter 2.0",
+      "projectPath": "/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/Temperature converter 2.0.csproj",
       "packagesPath": "/Users/code/.nuget/packages/",
-      "outputPath": "/Users/code/repos/Codestack/string_calculator/string_calculator/obj/",
+      "outputPath": "/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

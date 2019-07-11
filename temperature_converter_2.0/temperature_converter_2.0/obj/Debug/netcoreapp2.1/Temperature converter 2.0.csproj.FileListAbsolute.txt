@@ -1,0 +1,22 @@
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.deps.json
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.runtimeconfig.json
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.runtimeconfig.dev.json
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.dll
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.pdb
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.csprojAssemblyReference.cache
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.csproj.CoreCompileInputs.cache
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.AssemblyInfoInputs.cache
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.AssemblyInfo.cs
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.dll
+C:/Users/Code Stack/Desktop/Projects/Lab 2 2.0/Temperature converter 2.0/Temperature converter 2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.pdb
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.deps.json
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.runtimeconfig.json
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.runtimeconfig.dev.json
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.dll
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/bin/Debug/netcoreapp2.1/Temperature converter 2.0.pdb
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.csprojAssemblyReference.cache
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.csproj.CoreCompileInputs.cache
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.AssemblyInfoInputs.cache
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.AssemblyInfo.cs
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.dll
+/Users/code/repos/Codestack/temperature_converter_2.0/temperature_converter_2.0/obj/Debug/netcoreapp2.1/Temperature converter 2.0.pdb

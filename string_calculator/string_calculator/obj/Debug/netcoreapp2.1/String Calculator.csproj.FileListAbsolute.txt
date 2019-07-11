@@ -20,3 +20,14 @@ C:/Users/Lincoln/Google Drive (lmackay@codestack.co)/Codestack/Lab 3 2.0/String 
 /Users/code/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.runtimeconfig.dev.json
 /Users/code/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.dll
 /Users/code/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.pdb
+/Users/code/repos/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.deps.json
+/Users/code/repos/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.runtimeconfig.json
+/Users/code/repos/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.runtimeconfig.dev.json
+/Users/code/repos/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.dll
+/Users/code/repos/Codestack/string_calculator/string_calculator/bin/Debug/netcoreapp2.1/String Calculator.pdb
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.csprojAssemblyReference.cache
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.csproj.CoreCompileInputs.cache
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.AssemblyInfoInputs.cache
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.AssemblyInfo.cs
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.dll
+/Users/code/repos/Codestack/string_calculator/string_calculator/obj/Debug/netcoreapp2.1/String Calculator.pdb
