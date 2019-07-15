@@ -1,4 +1,4 @@
-totally-unique.database.windows.net\
+totally-unique.database.windows.net
 
 wokanoga
 
