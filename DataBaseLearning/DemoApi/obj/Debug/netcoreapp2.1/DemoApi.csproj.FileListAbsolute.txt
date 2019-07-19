@@ -1,0 +1,14 @@
+C:\Users\Code\repos\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.deps.json
+C:\Users\Code\repos\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.runtimeconfig.json
+C:\Users\Code\repos\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.runtimeconfig.dev.json
+C:\Users\Code\repos\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.dll
+C:\Users\Code\repos\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.pdb
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.csprojAssemblyReference.cache
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.csproj.CoreCompileInputs.cache
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorAssemblyInfo.cache
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorAssemblyInfo.cs
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.AssemblyInfoInputs.cache
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.AssemblyInfo.cs
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.dll
+C:\Users\Code\repos\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.pdb
