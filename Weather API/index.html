@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- custom font -->
+    <link href="https://fonts.googleapis.com/css?family=Thasadith" rel="stylesheet">
+
+    <title>LincolnM Weather App</title>
+  </head>
+  <body>
+    
+    <main>
+      <div class="container" id="backGround">
+        <!-- city/state button and temperature buttons -->
+        <div class="row pt-2 fadein">
+          <div class="col verticalCenter">
+            <!-- Well I never actually made a manual way to enter cities.  Trying to make this a very braindead application -->
+            <!-- <button class="btnInvis"><a href="menu.html" id="cityStateBtn">City</a></button> -->
+            <p class="mb-0" id="cityStateBtn"></p>
+          </div>
+          <div class="col putRight">
+            <button id="tempBtnC" onclick='tempBtnC()'>C</button>
+            <button id="tempBtnF" onclick='tempBtnF()'>F</button>
+          </div>
+        </div>
+        <!-- Temp and weather descriptor-->
+        <div class="row fadein">
+          <div class="col-sm">
+            <div class="row">
+              <div class="col centerStuff">
+                <p id="temperature" class="mb-0">xx°</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col centerStuff">
+                <p id="hiLoTemp"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm centerStuff">
+            <h2 id="weatherType"></h2>
+          </div>
+        </div>
+        <!-- Date and Time -->
+        <div class="row bottomStuff" id="fadeInDelay">
+          <div class="col">
+            <p class="mb-0"><span class="putRight" id="dateMonthDay"></span></p>
+            <p class="mb-0"><span class="putRight" id="datetime"></span></p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="script/script.js"></script>
+  </body>
+</html>

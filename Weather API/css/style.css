@@ -1,0 +1,141 @@
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Thasadith', sans-serif;
+    border-radius: 1rem;
+    max-width: 40rem;
+    height: 40vh;
+}
+
+@media only screen and (max-width: 480px) {
+    .container {
+        height: 100vh;
+        border-radius: 0;
+        max-height: 650px;
+    }
+  }
+
+.fadein {
+    -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: fadein 2s; /* Firefox < 16 */
+     -ms-animation: fadein 2s; /* Internet Explorer */
+      -o-animation: fadein 2s; /* Opera < 12.1 */
+         animation: fadein 2s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+.btnStyle {
+    background-color: black;
+    border-color: black;
+    border-radius: .5rem
+}   
+
+.btnInvis {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#cityStateBtn {
+    color: white;
+}
+
+.dateStuff {
+    display: flex;
+    justify-content: right;
+}
+
+.putRight {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#tempBtnC {
+    background-color: transparent;
+    border: transparent;
+    color: white;
+    opacity: .3;
+}
+
+#tempBtnF {
+    background-color: transparent;
+    border: transparent;
+    color: white;
+}
+
+#temperature {
+    font-size: 5rem;
+}
+
+#hiLoTemp {
+    font-size: 1.3rem;
+}
+
+.centerStuff {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.verticalCenter {
+    display: flex;
+    align-self: center;
+}
+.bottomStuff {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+
+.bg1 {
+    /* clear sky */
+    background-image: url('../images/Clear_sky.jpeg');
+    background-size: cover;
+}
+.bg2 {
+    /* overcast clouds */
+    background-image: url('../images/Overcast.jpeg');
+    background-size: cover;
+}
+.bg3 {
+    /* clouds */
+    background-image: url('../images/Few_Clouds.jpeg');
+    background-size: cover;
+}
+.bg4 {
+    /* rain */
+    background-image: url('../images/Rain2.jpeg');
+    background-size: cover;
+}
+.bg5 {
+    /* thunderstorm */
+    background-image: url('../images/Thunderstorm.jpeg');
+    background-size: cover;
+}
+.bg6 {
+    /* snow */
+    background-image: url('../images/Snow.jpeg');
+    background-size: cover;
+}
+.bg7 {
+    /* mist */
+    background-image: url('../images/Atmosphere.jpg');
+    background-size: cover;
+}
