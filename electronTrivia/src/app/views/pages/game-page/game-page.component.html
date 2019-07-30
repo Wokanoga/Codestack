@@ -1,0 +1,40 @@
+<div class="row">
+    <div class="col">
+        <p>{{this.timeServe.timeLeft}}</p>
+    </div>
+    <div class="col">
+        <p>{{this.score.score}}/10</p>
+    </div>
+</div>
+<div *ngIf="this.timeServe.timeLeft > 0; else elseBlock">
+    <div class="row">
+        <div class="col">
+            <p>{{question}}</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <el-button [btnName]='a1' (click)="checkAnswer(a1)"></el-button>
+        </div>
+        <div class="col">
+            <el-button [btnName]='a2' (click)="checkAnswer(a2)"></el-button>
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col">
+            <el-button [btnName]='a3' (click)="checkAnswer(a3)"></el-button>
+        </div>
+        <div class="col">
+            <el-button [btnName]='a4' (click)="checkAnswer(a4)"></el-button>
+        </div>
+    </div>
+</div>
+<ng-template #elseBlock>
+    <div class="row">
+        <div class="col">
+            <p>You ran out of time! The correct answer was:</p>
+            <p>{{correctAnswer}}</p>
+            <el-button [btnName]='continue' (click)="fillVariables()"></el-button>
+        </div>
+    </div>
+</ng-template>
