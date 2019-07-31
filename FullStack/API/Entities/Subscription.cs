@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API.Entities
 {
-	public class Subscription 
+	public class Subscription
         {
 		public int SubscriptionId { get; set; }
 
