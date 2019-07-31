@@ -1,0 +1,21 @@
+<div class="row">
+  <div class="col">
+      <h3>Your Final Score is: {{this.score.score}}</h3>
+      <p *ngIf="this.score.score==0">J E S U S</p>
+      <p *ngIf="this.score.score==1">Git gud kid</p>
+      <p *ngIf="this.score.score==2">You're Fucking Trash</p>
+      <p *ngIf="this.score.score==3">Extremely Mediocre</p>
+      <p *ngIf="this.score.score==4">You're probably 1k</p>
+      <p *ngIf="this.score.score==5">I expect more from you</p>
+      <p *ngIf="this.score.score==6">You're mom is probably proud of you, but I'm not.</p>
+      <p *ngIf="this.score.score==7">You think you know something but it's just Dunning-Kruger</p>
+      <p *ngIf="this.score.score==8">PogChamp</p>
+      <p *ngIf="this.score.score==9">Actually cares about trivia OMEGALUL</p>
+      <p *ngIf="this.score.score==10">Get a fucking life</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    <el-button [btnName]='back2Title' routerLink="../title" routerLinkActive="active"></el-button>
+  </div>
+</div>

@@ -1,0 +1,45 @@
+.backgroundBlack {
+  background-color: black;
+}
+
+el-button {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.boxColor {
+  background-color: white;
+}
+
+#toast-container > div {
+  opacity: 1;
+}
+
+.knockout-text {
+  /* if we can clip, do it */
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+  /* what will show through the text
+          ~ or ~
+         what will be the background of that element */
+  background-image: url("assets/Lincoln.jpeg");
+  background-attachment: fixed;
+  background-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  font-size: 9rem;
+  font-weight: bolder;
+}

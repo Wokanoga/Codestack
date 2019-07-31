@@ -1,0 +1,50 @@
+.container{
+
+    overflow: hidden;
+
+    
+}
+
+.sliding-background{
+    background: url(../img/Downtown_Stockton-e1479347812402-797x321.png) repeat-x;
+    height: 500px;
+    width: 5076px;
+    animation: slide 60s linear infinite !important;
+}
+@keyframes slide{
+    0%{
+        transfrom: translate3d(0,0,0)!important;
+}
+100%{
+    transfrom: translate3d(-1692px, 0, 0)!important;
+
+}
+}
+h1{
+
+    text-align: center;
+
+}
+h2{
+text-align: center;
+}
+.carousel-item{
+
+    height: 450px;
+    background-size: cover;
+    width: 100%;
+    
+}    
+#carousel1{
+
+    background-image: url('../img/station.jpg');
+}
+#carousel2{
+    background-image: url('../img/Stockton_skyline.jpeg');
+
+}
+#carousel3{
+
+    background: url('../img/university-plaza-waterfront-hotel-2.jpg');
+    background-position:center -200px; 
+}
