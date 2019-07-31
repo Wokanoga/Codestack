@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.EntityFrameworkCore;
+using API.Context;
+using API.Services;
 
 namespace API
 {
@@ -27,6 +29,7 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<APIContext> (options => options.UseSqlServer(Configuration.GetConnectionString("DemoDatabase")));
+            services.AddScoped<UserService>();
             services.AddMvc ().SetCompatibilityVersion (CompatibilityVersion.Version_2_2);
         }
 
