@@ -1,0 +1,18 @@
+.nav-link{
+    font-size:1.25rem;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.iconSize {
+    width: 4rem;
+    height: 4rem;
+}
+
+.navbar {
+    background-color: black;
+}
