@@ -169,6 +169,7 @@ function addName() {
     //Nifty.  Found this online.  MUCH better than using two separate lists.
     let regex = new RegExp(nameList.join("|"), "i");
     let caseCheck = regex.test(nameField.value);
+    console.log(caseCheck);
     if (nameField.value == "") {
         alert("Names typically include letters.");
     }
