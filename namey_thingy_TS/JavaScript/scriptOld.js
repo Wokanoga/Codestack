@@ -182,7 +182,7 @@ function addName() {
 //This function deletes all childs in listDisplay and then populates listDisplay with pTag holding items from
 //the nameList array.
 function populateListDisplay() {
-
+    nameList.sort();
     var listDisplay = document.getElementById("listDisplay");
 
     while (listDisplay.firstChild) {
