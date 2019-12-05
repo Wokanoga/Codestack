@@ -33,7 +33,7 @@ randomBtn.addEventListener('click', function () {
         //need to run this first to reset the acdive class.
         populateListDisplay();
         let rNum = Math.floor(Math.random() * nameList.length);
-        var listName = document.getElementById("index"+rNum);
+        let listName = document.getElementById("index"+rNum);
         listName.className = "list-group-item list-group-item-action active";
     }
 });

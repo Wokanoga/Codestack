@@ -220,5 +220,7 @@ function firstLoad() {
         nameList = [];
     }
 }
+
+
 firstLoad();
 //# sourceMappingURL=TypeScript.js.map
